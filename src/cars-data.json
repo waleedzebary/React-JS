@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry",
+    "imageUrl": "https://i.ibb.co/p2BHDzB/toyota-camry.jpg",
+    "price": 2500
+  },
+  {
+    "id": 2,
+    "name": "Honda Civic",
+    "imageUrl": "https://i.ibb.co/k9VPN6q/honda-civic.jpg",
+    "price": 2200
+  },
+  {
+    "id": 3,
+    "name": "Ford Mustang",
+    "imageUrl": "https://i.ibb.co/YkprMDT/ford-mustang.jpg",
+    "price": 3500
+  },
+  {
+    "id": 4,
+    "name": "Tesla Model S",
+    "imageUrl": "https://i.ibb.co/5KjK5D1/tesla-model-s.jpg",
+    "price": 8000
+  },
+  {
+    "id": 5,
+    "name": "Audi R8",
+    "imageUrl": "https://i.ibb.co/2cyKDNb/audi-r8.jpg",
+    "price": 1800
+  },
+  {
+    "id": 6,
+    "name": "Mercedes-Benz",
+    "imageUrl": "https://i.ibb.co/rF2r7GB/mercedes-benz-s-class.jpg",
+    "price": 1100
+  },
+  {
+    "id": 7,
+    "name": "BMW 7 Series",
+    "imageUrl": "https://i.ibb.co/hsqjWnr/bmw-7-series.jpg",
+    "price": 9000
+  },
+  {
+    "id": 8,
+    "name": "Chevrolet Corvette",
+    "imageUrl": "https://i.ibb.co/NNhDS7w/chevrolet-corvette.jpg",
+    "price": 6500
+  },
+  {
+    "id": 9,
+    "name": "Porsche 911",
+    "imageUrl": "https://i.ibb.co/FYtMz9w/porsche-911.jpg",
+    "price": 1500
+  },
+  {
+    "id": 10,
+    "name": "Lamborghini",
+    "imageUrl": "https://i.ibb.co/pWpnKm0/lamborghini-aventador.jpg",
+    "price": 4000
+  },
+  {
+    "id": 11,
+    "name": "McLaren 720S",
+    "imageUrl": "https://i.ibb.co/541Yt1v/mclaren-720s.jpg",
+    "price": 3000
+  },
+  {
+    "id": 12,
+    "name": "Ferrari 488 GTB",
+    "imageUrl": "https://i.ibb.co/4dsKGdF/ferrari-488-gtb.jpg",
+    "price": 2500
+  }
+]
